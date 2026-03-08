@@ -1,6 +1,6 @@
 module github.com/alonsoF100/12-sprint
 
-go 1.25.0
+go 1.24.0
 
 require (
 	github.com/stretchr/testify v1.11.1
